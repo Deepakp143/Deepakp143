@@ -28,16 +28,17 @@
 <h3 align="center">A passionate Data Scientist and Data Analyst</h3>
 -->
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **Advance Machine Learning and AI**
+ 
+ 🌱 I’m currently learning **NLP, ANN**
 
-- 🌱 I’m currently learning **Advance Machine Learning and AI**
+💬 Ask me about **Data Analyst, Data Processing, Python... or anything**
 
-- 👨‍💻 All of my projects are available at [https://deepak-prajapat143.vercel.app/](https://deepak-prajapat143.vercel.app/)
+⚡ Fun fact **It's a Good Day**
 
-- 💬 Ask me about **Data Analyst, Frontend web Developer, Data Scientist**
-
-- 📫 How to reach me **prajapatidprathod44@gmail.com**
-
-- ⚡ Fun fact **I'm Funny**
+ </div>
 <br/>
  <hr/>
  
@@ -96,7 +97,7 @@
 <div align="center">
 
   
-### Programming Languages:
+### Programming Languages and Web Tech:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 </a> &nbsp; &nbsp; &nbsp; 
@@ -115,13 +116,6 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
 </a> &nbsp; &nbsp; &nbsp; 
-
-</div>&nbsp; &nbsp; &nbsp;
-
-<div align="center">
- <hr/>
-  
-### Web Development and FrameWork:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
 </a> &nbsp; &nbsp; &nbsp; 
@@ -141,7 +135,13 @@
 </div>&nbsp; &nbsp; &nbsp;
 
 <div align="center">
+
+</div>
+
+<div align="center">
  <hr/>
+  
+
   
 ### AI/ML Technologies:
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
@@ -169,7 +169,7 @@
 &nbsp; &nbsp; &nbsp;
  <hr/>
 
-### Database:
+### Database & Designing
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
 </a> &nbsp; &nbsp; &nbsp; 
@@ -178,12 +178,7 @@
 </a> &nbsp; &nbsp; &nbsp; 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> 
-</a> &nbsp; &nbsp; &nbsp; 
-
-&nbsp; &nbsp; &nbsp;
- <hr/>
-
-### Design and Editing:
+</a>&nbsp; &nbsp; &nbsp; 
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/> 
 </a> &nbsp; &nbsp; &nbsp; 
@@ -198,7 +193,9 @@
 </a> &nbsp; &nbsp; &nbsp; 
 
 &nbsp; &nbsp; &nbsp;
+
  <hr/>
+
 
 ### Tools:
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 

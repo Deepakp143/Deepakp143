@@ -32,7 +32,7 @@
  
  🔭 I’m currently working on **Advance Machine Learning and AI**
  
- 🌱 I’m currently learning **NLP, ANN**
+ 🌱 I’m currently learning **GEN AI**
 
 💬 Ask me about **Data Analyst, Data Processing, Python... or anything**
 
